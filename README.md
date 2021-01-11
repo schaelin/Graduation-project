@@ -1,6 +1,6 @@
 # :purple_heart:2021 졸업프로젝트:purple_heart:
 ---  
-### [주제] remote PPG를 이용한 Fake 생체인식 판별
+### :sparkles:[주제] remote PPG를 이용한 Fake 생체인식 판별:sparkles:
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
