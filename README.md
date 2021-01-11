@@ -7,11 +7,14 @@
 
 상명대학교 휴먼지능정보공학과 2021 졸업프로젝트
 
-:family:팀원:family:
+:family:팀원:family:  
 
-  :bowtie:신유진
+  :bowtie:신유진  
+  
   :sunglasses:김민철
+  
   :flushed:석채린
+  
   :no_mouth:전수민
 
 
